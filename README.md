@@ -61,7 +61,7 @@ You should be able to ...
 - [x] Open the repo in Atom: Repository > Open in Atom  
 - [x] In Atom, edit this README file and add your *second* favorite emoji here: ** 🏳️‍🌈 **
 - [x] In Github Desktop, confirm the README file was saved and shows your new changes in the Changes tab
-- [ ] Commit your changes to the README file directly to the master branch with the message `commit #2 from Github Desktop`
+- [x] Commit your changes to the README file directly to the master branch with the message `commit #2 from Github Desktop`
 - [ ] Click Push origin to push your changes back to remote repo  
 - [ ] Confirm the changes to the README file were pushed: Choose Repository > View on Github
 - [ ] Click on the README file and then click on History to see the history of this file
