@@ -54,12 +54,12 @@ You should be able to perform a basic Git workflow using Github.com, the command
 ### In Github Desktop
 You should be able to ...
 
-- [x] In Github Desktop, clone the fork (you made above) [learn-git-milestones](https://github.com/omundy/learn-git-milestones) ...
-  - [x] File > Clone Repository > Github.com and select it ...
-  - [ x Local Path: Click "Choose" and add a new folder on your computer. This will be the base folder for your work in this class: `critical-web-design`
-  - [x] Click "Clone" to make a local copy
+- [ ] In Github Desktop, clone the fork (you made above) [learn-git-milestones](https://github.com/omundy/learn-git-milestones) ...
+  - [ ] File > Clone Repository > Github.com and select it ...
+  - [ ] Local Path: Click "Choose" and add a new folder on your computer. This will be the base folder for your work in this class: `critical-web-design`
+  - [ ] Click "Clone" to make a local copy
 - [ ] Open the repo in Atom: Repository > Open in Atom  
-- [ ] In Atom, edit this README file and add your *second* favorite emoji here: **??**
+- [ ] In Atom, edit this README file and add your *second* favorite emoji here: **🏳️‍🌈 **
 - [ ] In Github Desktop, confirm the README file was saved and shows your new changes in the Changes tab
 - [ ] Commit your changes to the README file directly to the master branch with the message `commit #2 from Github Desktop`
 - [ ] Click Push origin to push your changes back to remote repo  
@@ -91,7 +91,7 @@ You should have a basic familiarity with the command line in case you need to do
 ### Git in Atom
 You should be able to ...
 
-- [ ] In Github Desktop, open this repo [learn-git-milestones](https://github.com/omundy/learn-git-milestones) in Atom: Repository > Open in Atom  
+- [x] In Github Desktop, open this repo [learn-git-milestones](https://github.com/omundy/learn-git-milestones) in Atom: Repository > Open in Atom  
 - [ ] In Atom, edit this README file and add your *third* favorite emoji here: **??**
 - [ ] Create a new file `hello.txt`, add some text and save it.
 - [ ] Display the Git panel (click the small Git button at the bottom right).
@@ -109,25 +109,25 @@ You should be able to ...
 Now that we have basic Git commands out of the way use Git to create and turn in your DIG 245 assignment ...
 
 
-- [ ] In Github Desktop, create a new repository ...
-  - [ ] Name: `dig245-a1`
-  - [ ] Local Path: Click "Choose" and create a new folder `dig245-a1` inside the `critical-web-design` folder you made above
-  - [ ] Click Create Repository
-  - [ ] This should now be your class folder's directory structure.
+- [x] In Github Desktop, create a new repository ...
+  - [x] Name: `dig245-a1`
+  - [x] Local Path: Click "Choose" and create a new folder `dig245-a1` inside the `critical-web-design` folder you made above
+  - [x] Click Create Repository
+  - [x] This should now be your class folder's directory structure.
   ```
   critical-web-design
     |-- dig245-a1
     |-- learn-git-milestones
   ```
-- [ ] Open your new repository in Atom (with Github Desktop or drag the `dig245-a1` project folder into Atom)
-  - [ ] Add a README file: `README.md`
-  - [ ] In the README write your name and the date
+- [x] Open your new repository in Atom (with Github Desktop or drag the `dig245-a1` project folder into Atom)
+  - [x] Add a README file: `README.md`
+  - [x] In the README write your name and the date
   - [ ] Use some [Markdown tags](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-- [ ] Complete Assignment 1
-  - [ ] Create a file called `index.html` in your repo
-  - [ ] See the instructions in [Assignment 1](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit)
-  - [ ] Test your file in a web browser
-  - [ ] Commit and push the files to Github
+- [x] Complete Assignment 1
+  - [x] Create a file called `index.html` in your repo
+  - [x] See the instructions in [Assignment 1](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit)
+  - [x] Test your file in a web browser
+  - [x] Commit and push the files to Github
 - [ ] Set up a [Github page](https://pages.github.com/) "project site" for your repo
   - [ ] Choose "Project site"
   - [ ] Do not use a theme. Start from scratch
